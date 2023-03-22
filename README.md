@@ -1,4 +1,6 @@
 Weather prediction using statistical deep learning 
+
+
 Weather forecasting is the prediction of the state of the atmosphere for a given location using the application of science and technology.
 This includes temperature, rain, cloudiness, wind speed, and humidity.
 We will use statistics and probability in weather prediction by using 5 topics from probability and statistics, will be:-
@@ -8,7 +10,12 @@ We will use statistics and probability in weather prediction by using 5 topics f
 4. Discrete cumulative distribution
 5. Bayes theorem
 6. Naïve Bayes theorem
+
+
 The used data set [weather1.csv](https://github.com/PinkRolex/weather-prediction/files/11042987/weather1.csv)
+
+
+
 Discrete random variable
 ![image](https://user-images.githubusercontent.com/98608497/226989649-13cae7f7-0ead-4338-a826-8b0c4b0f17a6.png)
 central limit theorem
